@@ -18,7 +18,7 @@ public class MailSenderDAO {
 	
 	private String to = "grozdan96@gmail.com";
 	private String from = "grozdan96@gmail.com";
-	private String pass = "grozdan95";
+	private String pass = "###";
 	private Properties props;
 	private Session session;
 	private MimeMessage msg;
